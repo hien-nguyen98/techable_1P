@@ -1,2 +1,2 @@
-# techable_1P
+# techable_loyalty
 For techable loyalty project purpose
