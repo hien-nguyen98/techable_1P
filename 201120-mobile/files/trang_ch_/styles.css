@@ -129,7 +129,7 @@
   left:0px;
   top:0px;
   width:606px;
-  height:2190px;
+  height:2158px;
   background:inherit;
   background-color:rgba(255, 255, 255, 1);
   border:none;
@@ -141,10 +141,10 @@
 #u4 {
   border-width:0px;
   position:absolute;
-  left:-7px;
-  top:117px;
+  left:0px;
+  top:149px;
   width:606px;
-  height:2190px;
+  height:2158px;
   display:flex;
 }
 #u4 .text {
@@ -2284,8 +2284,8 @@
 #u69 {
   border-width:0px;
   position:absolute;
-  left:22px;
-  top:95px;
+  left:19px;
+  top:100px;
   width:569px;
   height:36px;
   display:flex;
@@ -2315,8 +2315,8 @@
 #u70 {
   border-width:0px;
   position:absolute;
-  left:549px;
-  top:101px;
+  left:546px;
+  top:106px;
   width:30px;
   height:24px;
   display:flex;
