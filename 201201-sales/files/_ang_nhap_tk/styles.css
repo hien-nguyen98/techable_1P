@@ -97,7 +97,7 @@
   left:0px;
   top:0px;
   width:459px;
-  height:421px;
+  height:345px;
   background:inherit;
   background-color:rgba(255, 255, 255, 1);
   box-sizing:border-box;
@@ -115,7 +115,7 @@
   left:529px;
   top:397px;
   width:459px;
-  height:421px;
+  height:345px;
   display:flex;
 }
 #u3 .text {
@@ -381,61 +381,7 @@
 }
 #u6.disabled {
 }
-#u7 label {
-  left:0px;
-  width:100%;
-}
-#u7_img {
-  border-width:0px;
-  position:absolute;
-  left:0px;
-  top:5px;
-  width:12px;
-  height:12px;
-}
-#u7 {
-  border-width:0px;
-  position:absolute;
-  left:565px;
-  top:634px;
-  width:212px;
-  height:21px;
-  display:flex;
-  font-size:18px;
-}
-#u7 .text {
-  position:absolute;
-  align-self:center;
-  padding:0px 2px 0px 2px;
-  box-sizing:border-box;
-}
-#u7_img.selected {
-}
-#u7.selected {
-}
-#u7_img.disabled {
-}
-#u7.disabled {
-}
-#u7_text {
-  border-width:0px;
-  position:absolute;
-  left:14px;
-  top:0px;
-  width:196px;
-  word-wrap:break-word;
-  text-transform:none;
-}
-#u7_input {
-  border-width:0px;
-  position:absolute;
-  left:0px;
-  top:0px;
-  width:0px;
-  height:0px;
-  opacity:0;
-}
-#u8_div {
+#u7_div {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -454,11 +400,11 @@
   font-style:normal;
   font-size:18px;
 }
-#u8 {
+#u7 {
   border-width:0px;
   position:absolute;
   left:565px;
-  top:689px;
+  top:637px;
   width:386px;
   height:40px;
   display:flex;
@@ -467,19 +413,19 @@
   font-style:normal;
   font-size:18px;
 }
-#u8 .text {
+#u7 .text {
   position:absolute;
   align-self:center;
   padding:2px 2px 2px 2px;
   box-sizing:border-box;
   width:100%;
 }
-#u8_text {
+#u7_text {
   border-width:0px;
   word-wrap:break-word;
   text-transform:none;
 }
-#u9_div {
+#u8_div {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -498,11 +444,11 @@
   font-style:normal;
   font-size:16px;
 }
-#u9 {
+#u8 {
   border-width:0px;
   position:absolute;
   left:698px;
-  top:751px;
+  top:691px;
   width:120px;
   height:22px;
   display:flex;
@@ -511,14 +457,14 @@
   font-style:normal;
   font-size:16px;
 }
-#u9 .text {
+#u8 .text {
   position:absolute;
   align-self:center;
   padding:2px 2px 2px 2px;
   box-sizing:border-box;
   width:100%;
 }
-#u9_text {
+#u8_text {
   border-width:0px;
   white-space:nowrap;
   text-transform:none;
