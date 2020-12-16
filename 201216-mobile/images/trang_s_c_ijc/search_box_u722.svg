@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="569px" height="36px" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient gradientUnits="userSpaceOnUse" x1="284.5" y1="0" x2="284.5" y2="36" id="LinearGradient1">
+      <stop id="Stop2" stop-color="#f2f2f2" offset="0" />
+      <stop id="Stop3" stop-color="#e4e4e4" offset="1" />
+      <stop id="Stop4" stop-color="#ffffff" offset="1" />
+    </linearGradient>
+    <mask fill="white" id="clip5">
+      <path d="M 0 26  L 0 10  C 0 4.40000000000001  4.4 0  10 0  L 98.3076923076923 0  L 559 0  C 564.6 0  569 4.40000000000001  569 10  L 569 26  C 569 31.6  564.6 36  559 36  L 10 36  C 4.4 36  0 31.6  0 26  Z " fill-rule="evenodd" />
+    </mask>
+  </defs>
+  <g transform="matrix(1 0 0 1 -19 -84 )">
+    <path d="M 0 26  L 0 10  C 0 4.40000000000001  4.4 0  10 0  L 98.3076923076923 0  L 559 0  C 564.6 0  569 4.40000000000001  569 10  L 569 26  C 569 31.6  564.6 36  559 36  L 10 36  C 4.4 36  0 31.6  0 26  Z " fill-rule="nonzero" fill="url(#LinearGradient1)" stroke="none" transform="matrix(1 0 0 1 19 84 )" />
+    <path d="M 0 26  L 0 10  C 0 4.40000000000001  4.4 0  10 0  L 98.3076923076923 0  L 559 0  C 564.6 0  569 4.40000000000001  569 10  L 569 26  C 569 31.6  564.6 36  559 36  L 10 36  C 4.4 36  0 31.6  0 26  Z " stroke-width="2" stroke="#797979" fill="none" transform="matrix(1 0 0 1 19 84 )" mask="url(#clip5)" />
+  </g>
+</svg>
