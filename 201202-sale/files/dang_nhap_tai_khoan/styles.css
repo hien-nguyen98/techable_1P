@@ -66,16 +66,16 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:258px;
-  height:224px;
+  width:259px;
+  height:246px;
 }
 #u2 {
   border-width:0px;
   position:absolute;
   left:629px;
-  top:173px;
-  width:258px;
-  height:224px;
+  top:164px;
+  width:259px;
+  height:246px;
   display:flex;
 }
 #u2 .text {
@@ -112,8 +112,8 @@
 #u3 {
   border-width:0px;
   position:absolute;
-  left:529px;
-  top:397px;
+  left:534px;
+  top:403px;
   width:459px;
   height:345px;
   display:flex;
@@ -136,7 +136,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:315px;
+  width:304px;
   height:37px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
@@ -148,18 +148,20 @@
   font-family:'Arial Bold', 'Arial';
   font-weight:700;
   font-style:normal;
+  text-align:center;
 }
 #u4 {
   border-width:0px;
   position:absolute;
-  left:601px;
-  top:422px;
-  width:315px;
+  left:606px;
+  top:428px;
+  width:304px;
   height:37px;
   display:flex;
   font-family:'Arial Bold', 'Arial';
   font-weight:700;
   font-style:normal;
+  text-align:center;
 }
 #u4 .text {
   position:absolute;
@@ -170,7 +172,7 @@
 }
 #u4_text {
   border-width:0px;
-  white-space:nowrap;
+  word-wrap:break-word;
   text-transform:none;
 }
 #u5_input {
@@ -236,8 +238,8 @@
 #u5 {
   border-width:0px;
   position:absolute;
-  left:565px;
-  top:484px;
+  left:570px;
+  top:490px;
   width:386px;
   height:55px;
   display:flex;
@@ -340,8 +342,8 @@
 #u6 {
   border-width:0px;
   position:absolute;
-  left:565px;
-  top:564px;
+  left:570px;
+  top:570px;
   width:386px;
   height:55px;
   display:flex;
@@ -403,8 +405,8 @@
 #u7 {
   border-width:0px;
   position:absolute;
-  left:565px;
-  top:637px;
+  left:570px;
+  top:643px;
   width:386px;
   height:40px;
   display:flex;
@@ -443,12 +445,13 @@
   font-weight:700;
   font-style:normal;
   font-size:16px;
+  text-decoration:underline ;
 }
 #u8 {
   border-width:0px;
   position:absolute;
-  left:698px;
-  top:691px;
+  left:703px;
+  top:697px;
   width:120px;
   height:22px;
   display:flex;
@@ -456,6 +459,7 @@
   font-weight:700;
   font-style:normal;
   font-size:16px;
+  text-decoration:underline ;
 }
 #u8 .text {
   position:absolute;
