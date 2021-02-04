@@ -3,7 +3,7 @@
   background-image:none;
   position:relative;
   left:0px;
-  width:1516px;
+  width:1728px;
   margin-left:auto;
   margin-right:auto;
   text-align:left;
@@ -21,8 +21,8 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:1516px;
-  height:991px;
+  width:1728px;
+  height:1019px;
   background:inherit;
   background-color:rgba(242, 242, 242, 1);
   border:none;
@@ -36,8 +36,8 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:1516px;
-  height:991px;
+  width:1728px;
+  height:1019px;
   display:flex;
 }
 #u278 .text {
@@ -66,7 +66,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:1516px;
+  width:1702px;
   height:139px;
   background:inherit;
   background-color:rgba(12, 39, 63, 1);
@@ -84,7 +84,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:1516px;
+  width:1702px;
   height:139px;
   display:flex;
 }
@@ -106,15 +106,15 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:120px;
+  width:124px;
   height:107px;
 }
 #u281 {
   border-width:0px;
   position:absolute;
-  left:24px;
+  left:27px;
   top:16px;
-  width:120px;
+  width:124px;
   height:107px;
   display:flex;
 }
@@ -136,8 +136,8 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:1470px;
-  height:809px;
+  width:1689px;
+  height:854px;
   background:inherit;
   background-color:rgba(255, 255, 255, 1);
   border:none;
@@ -151,8 +151,8 @@
   position:absolute;
   left:13px;
   top:150px;
-  width:1470px;
-  height:809px;
+  width:1689px;
+  height:854px;
   display:flex;
 }
 #u282 .text {
@@ -173,8 +173,8 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:275px;
-  height:783px;
+  width:276px;
+  height:828px;
   background:inherit;
   background-color:rgba(215, 215, 215, 1);
   border:none;
@@ -188,8 +188,8 @@
   position:absolute;
   left:24px;
   top:163px;
-  width:275px;
-  height:783px;
+  width:276px;
+  height:828px;
   display:flex;
 }
 #u283 .text {
@@ -1167,7 +1167,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:103px;
+  width:106px;
   height:19px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
@@ -1180,9 +1180,9 @@
 #u306 {
   border-width:0px;
   position:absolute;
-  left:85px;
+  left:84px;
   top:602px;
-  width:103px;
+  width:106px;
   height:19px;
   display:flex;
 }
